@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Aleemendoza/Aleemendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estoy terminando un bootcamp intensivo de Full Stack developer JS, 
+donde aprendí a programar aplicaciones desde cero, usando Js, react, redux, express, Sequelize, mongoDB, moongose, 
+MySql, testing.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+SOY UN DESARROLLADOR DE SOFTWARE con la capacidad de escribir código prolijo y legible, 
+disfruto trabajar en equipo con metodologías ágiles. Me motiva participar en proyectos en los que pueda formar parte de un equipo, 
+aprender y desarrollar mi carrera.
+
+    - SKILLS -
+
+| Node.js | Express | SQL | Sequelize | MongoDB | Mongoose | Python | jquery
+HTML5 | CSS3 | JavaScript ES6 | Git & GitHub | Data structure
+| Algorithms | React.js | Redux | AJAX | Testing | 
