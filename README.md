@@ -1,7 +1,7 @@
 ### Hola!! Soy Ale.👋
 
 Estoy terminando un bootcamp intensivo de Full Stack developer JS, 
-donde aprendí a programar aplicaciones desde cero, usando JS, React, Redux, Express, Sequelize, mongoDB, moongose, 
+donde aprendí a programar aplicaciones desde cero, usando JS, React, Redux, Express, Sequelize, 
 SQL, testing, Data structure.
 
  ### - SKILLS -
