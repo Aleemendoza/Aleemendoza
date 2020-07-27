@@ -6,6 +6,6 @@ SQL, testing, Data structure.
 
  ### - SKILLS -
 
-Node.js | Express | SQL | Sequelize | MongoDB | Mongoose |
-HTML5 | CSS3 | JavaScript ES6 | vanillaJS | Git & GitHub | Data structure
+| Node.js | Express | SQL | Sequelize | HTML5 | CSS3 | Data structure |
+| MongoDB | Mongoose | JavaScript ES6 | vanillaJS | Git & GitHub | 
 | Algorithms | React.js | Redux | AJAX | Testing | Python | jquery |
