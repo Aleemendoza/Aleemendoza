@@ -1,7 +1,9 @@
 ### Hola!! Soy Ale.👋
 
 Soy un desarrollador con un compromiso y optimismo muy grande,
+
 me considero una persona defensora del pensamiento sistemico... 
+
 y partidario de la filosofia de unix.
 
  ### - SOFT - SKILLS -
