@@ -1,8 +1,8 @@
 ### Hola!! Soy Ale.👋
 
-termine un bootcamp intensivo de Full Stack developer JS, 
-donde aprendí a programar aplicaciones desde cero, usando JS, React, Redux, Express, Sequelize, 
-SQL, testing.
+Soy un desarrollador con un compromiso y optimismo muy grande,
+me considero una persona defensora del pensamiento sistemico... 
+y partidario de la filosofia de unix.
 
  ### - SOFT - SKILLS -
 
